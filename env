@@ -1,0 +1,2 @@
+PORT=8081
+ATLAS_URI=mongodb+srv://<username>:<password>@cluster0.hhd2lwm.mongodb.net/server-cafes?retryWrites=true&w=majority&appName=Cluster0
