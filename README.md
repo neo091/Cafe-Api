@@ -1,15 +1,15 @@
 # ☕ Cafe Api ☕
 <p>This is an API to get coffees with emojis, it is a small project but it teaches the basics of APIs. </p>
 
-![https://github.com/neo091/cafe-api](./img/API.png)
+![https://github.com/neo091](./img/api.png)
 
-### Clone the Repository
+## Clone the Repository
 `git clone https://github.com/neo091/cafe-api.git`
 
-### Install Dependencies
+## Install Dependencies
 `npm install`
 
-### Run project
+## Run project
 `npm run dev`
 
 ## Errors
