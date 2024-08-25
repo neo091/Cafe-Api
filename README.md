@@ -4,17 +4,25 @@
 ![https://github.com/neo091](./img/api.png)
 
 ## Clone the Repository
-`git clone https://github.com/neo091/cafe-api.git`
+```
+git clone https://github.com/neo091/cafe-api.git
+```
 
 ## Install Dependencies
-`npm install`
+```
+npm install
+```
 
 ## Run project
-`npm run dev`
+```
+npm run dev
+```
 
 ## Errors
 ### MongooseError
-`MongooseError: The uri parameter to openUri() must be a string, got "undefined". Make sure the first parameter to mongoose.connect() or mongoose.createConnection() is a string.`
+```
+MongooseError: The uri parameter to openUri() must be a string, got "undefined". Make sure the first parameter to mongoose.connect() or mongoose.createConnection() is a string.
+```
 
 This happens because you do not yet have the [MongoDB](https://www.mongodb.com/) URL configured for your database.
 ### Solution "MongooseError"
